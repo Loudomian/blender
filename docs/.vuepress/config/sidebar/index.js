@@ -7,6 +7,14 @@ module.exports = {
         children: [
           '',
         ]
+      },
+      {
+        title: '💡基础',
+        collapsable: false,
+        children: [
+          'quick-ik',
+          'sourceIO',
+        ]
       }
     ],
   })
