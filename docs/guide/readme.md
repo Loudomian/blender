@@ -15,8 +15,3 @@ title: 简介
 不知道写啥好，你有意愿或建议的话请在留言板评论或者发送 Email 到我的邮箱：
 Loudomian@gmail.com
 
-<DPlayer :options="{
-        video: {
-          url: '/video/smooth-cam-1.mp4',
-        },
-}"/>
