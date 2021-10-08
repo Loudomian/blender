@@ -41,7 +41,6 @@ module.exports = {
         }
       }
     ],
-    ['@vuepress-something/vuepress-plugin-dplayer'],
     ['vuepress-plugin-smooth-scroll'],
     [
       '@vuepress/google-analytics',
