@@ -63,10 +63,13 @@ module.exports = {
     ],
     'flowchart',
     ['sitemap', {
-      hostname: 'https://blender.soka.wang'
+      hostname: 'https://blender.ldo.one',
+      dateFormatter: val => {
+        return new Date().toISOString()
+      }
     }],
     ['@vuepress-reco/rss', {
-      site_url: 'https://blender.soka.wang',
+      site_url: 'https://blender.ldo.one',
       copyright: ''
     }],
     require('./plugins/notification/index')
