@@ -13,6 +13,7 @@ module.exports = {
         collapsable: false,
         children: [
           'sourceIO',
+          'smooth-cam',
         ]
       }
     ],

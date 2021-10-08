@@ -19,6 +19,8 @@
     "whatwg-fetch": "3.0.0"
   },
   "devDependencies": {
+    "@vuepress-something/vuepress-plugin-dplayer": "^1.0.2",
+    "dplayer": "^1.26.0",
     "vuepress-plugin-smooth-scroll": "^0.0.9"
   }
 }
