@@ -22,7 +22,7 @@ Your browser does not support the video tag.
 </video>
 </div>
 
-## 取样关键帧
+### 取样关键帧
 
 找到你需要平滑的摄像机关键帧，并选中它们。
 
@@ -50,7 +50,7 @@ Your browser does not support the video tag.
 
 ![](https://pic.imgdb.cn/item/615ffeb22ab3f51d91b56ced.png)
 
-## 最终效果
+### 最终效果
 
 <div style="position: relative; padding: 30% 45%;">
 <video src="https://pan.ldo.one/api/v3/file/source/367/smooth-cam-2.mp4?sign=45EeOeqg2I6j1jC5jM32gY9AlXSgRQSqDWdYjBTwh-I%3D%3A0" controls="controls" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;">

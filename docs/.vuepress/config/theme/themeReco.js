@@ -6,7 +6,6 @@ module.exports = {
   searchMaxSuggestions: 10,
   // 自动形成侧边导航
   sidebar: 'auto',
-  sidebarDepth: 2,
   // 最后更新时间
   lastUpdated: '最后更新', // string | boolean
   // 作者
