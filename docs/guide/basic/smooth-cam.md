@@ -1,6 +1,7 @@
 ---
 title: 让摄像机丝滑般运动
 ---
+
 ::: right
 Blender Version 2.93.5 / [最强侦察兵布洛特亨德尔动画工程](https://www.bilibili.com/video/BV1aq4y1V7W3)
 :::

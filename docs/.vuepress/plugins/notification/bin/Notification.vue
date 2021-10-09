@@ -11,7 +11,10 @@
       <div class="notification-content">
         <h5>欢迎加入Source Filmmaker交流QQ群
            <br />
-           实际上这是一个啥都聊的群
+           实际上这是一个啥都聊的群 XD
+           <br />
+           <br />
+           不要忘记关掉这个，会挡住子侧边栏。
         </h5>
         <img :src="require('./rvcode_qq.png')" alt="">
       </div>

@@ -12,8 +12,9 @@ module.exports = {
         title: '💡基础',
         collapsable: false,
         children: [
-          'sourceIO',
-          'smooth-cam',
+          'basic/sourceIO',
+          'basic/smooth-cam',
+          'basic/improve-low-poly-model-details',
         ]
       }
     ],
