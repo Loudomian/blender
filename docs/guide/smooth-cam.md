@@ -17,7 +17,7 @@ Blender Version 2.93.5 / [最强侦察兵布洛特亨德尔动画工程](https:/
 这里面的镜头移动关键帧都处于 Blender 自动钳制状态，所以过于密集的关键帧下会显得抽拉感拉满。
 
 <div style="position: relative; padding: 30% 45%;">
-<video src="https://pan.ldo.one/api/v3/file/source/366/smooth-cam-1.mp4?sign=myke9jGZBHXiHx1gGq_k2OqJqhPSbvr0vHP3iqKelmE%3D%3A0" controls="controls" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;">
+<video src="https://assets.007.rip/video/blender-smooth-cam-1.mp4" controls="controls" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;">
 Your browser does not support the video tag.
 </video>
 </div>
@@ -53,7 +53,7 @@ Your browser does not support the video tag.
 ### 最终效果
 
 <div style="position: relative; padding: 30% 45%;">
-<video src="https://pan.ldo.one/api/v3/file/source/367/smooth-cam-2.mp4?sign=45EeOeqg2I6j1jC5jM32gY9AlXSgRQSqDWdYjBTwh-I%3D%3A0" controls="controls" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;">
+<video src="https://assets.007.rip/video/blender-smooth-cam-2.mp4" controls="controls" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;">
 Your browser does not support the video tag.
 </video>
 </div>
