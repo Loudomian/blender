@@ -16,6 +16,13 @@ module.exports = {
           'basic/smooth-cam',
           'basic/improve-low-poly-model-details',
         ]
+      },
+      {
+        title: '📐插件',
+        collapsable: false,
+        children: [
+          'add-on/diffeomorphic-daz3d',
+        ]
       }
     ],
   })
