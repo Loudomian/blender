@@ -7,7 +7,7 @@ module.exports = {
     ['link', { rel: 'icon', href: 'https://pic.downk.cc/item/5f546a26160a154a6703b152.png' }],
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }],
     ['meta', { name: 'author', content: 'Loudomian' }],
-    ['meta', { name: 'keywords', content: 'SFM,Source Filmmaker,学习笔记,教程' }],
+    ['meta', { name: 'keywords', content: 'Blender,学习笔记,教程' }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
     ['meta', { name: 'theme-color', content: '#42b983' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
